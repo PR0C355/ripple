@@ -227,30 +227,3 @@
     transform: rotate(0deg);
   }
 }
-
-.navul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-.navli {
-  float: left;
-  display: inline;
-}
-
-.navli a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change the link color to #111 (black) on hover */
-.navli a:hover {
-  background-color: #111;
-}
-
